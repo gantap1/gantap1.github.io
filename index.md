@@ -29,7 +29,7 @@ I am **Pranav Sai Ganta**, a **Master's student in Computer Science at Virginia 
 - Conducting **data analysis and merging of over 1 million highly secured data entries** in collaboration with **City of Indianapolis**.  
 - Utilizing **Stata and R** for **data cleaning, transformation, statistical modeling, and visualization**, supporting policy research and program evaluation.  
 - Working within a **high-security virtual environment**, ensuring compliance with **data protection protocols** and handling **restricted datasets** with confidentiality.
-- 
+
 ### **Research Assistant** - *VCU* *(Oct 2024 - Jan 2025)*  
 - Worked on **CAN Bus Abnormality Detection Project**, collaborating with the University of Virginia under Dr. Zhao.  
 - Led a team of 2 in developing a **GAN-based anomaly detection system** for CAN Bus communication security.  
