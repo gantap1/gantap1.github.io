@@ -2,22 +2,104 @@
 layout: default
 ---
 
-# Welcome to My Research Page
+# Welcome to My Research Portfolio  
 
-I am a computer science researcher focusing on [your research areas].
+I am **Pranav Sai Ganta**, a **Master's student in Computer Science at Virginia Commonwealth University (VCU)**, specializing in **Machine Learning, Generative AI, NLP, and MLOps**. My research focuses on **AI-driven optimization, anomaly detection, and intelligent automation**.  
 
-## Research Interests
+---
 
-- Interest 1
-- Interest 2
-- Interest 3
+## 📚 Education  
 
-## Publications
+- **Virginia Commonwealth University (VCU), Richmond, VA**  
+  *Master's in Computer Science (Expected May 2026)*  
+  *Courses: Advanced Algorithms, Advanced Machine Learning, AI for Networks, Network and System Security, NLP*  
 
-1. Author, A., **Your Name**, & Researcher, R. (2024). "Paper Title." *Journal Name*. [Link](https://example.com)
+- **Vignan Institute of Technology and Science, Hyderabad, India**  
+  *Bachelor’s in Computer Science (2020 - 2024)*  
 
-## Projects
+---
 
-### Project Name
-Brief description of the project.
-[More details](./projects/project1.md)
+## 🔬 Research Experience  
+
+### **Graduate Research Assistant** - *College of Engineering, VCU* *(Feb 2025 - Present)*  
+- Leading the **Intelligent Plate Waste Tracking System (PWTS)** – an **AI-driven IoT system** for real-time food waste monitoring in institutional dining facilities.  
+- Implementing **machine learning algorithms for predictive analytics, cloud-based data pipelines, and actionable insights** to drive operational efficiency and sustainability initiatives.  
+
+### **Research Assistant** - *VCU* *(Oct 2024 - Jan 2025)*  
+- Worked on **CAN Bus Abnormality Detection Project**, collaborating with the University of Virginia under Dr. Zhao.  
+- Led a team of 2 in developing a **GAN-based anomaly detection system** for CAN Bus communication security.  
+- Conducted **data analysis, model training (LSTM, GAN), and algorithm fine-tuning**, improving detection accuracy by **15%**.  
+
+---
+
+## 💡 Projects  
+
+### **Enhancing CAN Bus Security with GAN-Based Anomaly Detection**  
+**Tools:** Python, TensorFlow, Keras, Scikit-learn, GAN, CGAN  
+- Developed a **GAN-powered intrusion detection system**, generating **high-fidelity synthetic CAN traffic** to enhance cybersecurity in autonomous vehicles.  
+- Improved **model accuracy by 15%** through advanced anomaly detection techniques.  
+
+### **Optimizing Traffic Lights with Artificial Intelligence for Smarter Control**  
+**Tools:** Python, OpenCV, TensorFlow, Keras, Pygame  
+- Designed an **AI-driven traffic light optimization model**, reducing **wait times by 30%** and improving overall traffic flow efficiency.  
+
+### **Wi-Fi Network Coverage Prediction with Added Mobility Features**  
+**Tools:** Python, Scikit-Learn, TensorFlow, NumPy, Pandas, Matplotlib, QGIS, NS-3  
+- Developed a **Wi-Fi coverage prediction model** using **Particle Swarm Optimization**, optimizing router placement for better spatial reliability and network performance.  
+
+---
+
+## 🛠 Skills  
+
+- **Programming Languages:** Python, Java, SQL, JavaScript, HTML  
+- **Machine Learning & AI:** TensorFlow, Keras, Scikit-learn, NLTK, OpenCV  
+- **Data Science & Analytics:** Pandas, NumPy, Matplotlib, R, Tableau, Stata  
+- **Software Development:** Django, Flask, Node.js, PostgreSQL, MongoDB  
+- **Cloud & DevOps:** Docker, AWS, GCP, GitHub Actions  
+- **Interests:** MLOps, LLMs, NLP, Generative AI  
+
+---
+
+## 🎓 Certifications  
+
+- **Google Data Analytics Professional Certificate** – Hands-on training in **data cleaning, visualization, and analysis** using SQL, R, and Tableau.  
+- **Coursera Certifications:**  
+  - Web Programming Foundations  
+  - Becoming a Front-End Web Developer  
+  - Advanced HTML  
+  - Tableau for Data Scientists  
+  - Data Visualization in Python with Dash  
+  - Project Management Skills for Leaders  
+
+---
+
+## 🏆 Achievements  
+
+- **Core Organizer of Vansh ’23 and ’24**, managing **4,000+ attendees annually**.  
+- **Organized Internship Mela** in collaboration with StuMagz, facilitating **600+ internship offers for 15,000+ students in 12 hours**.  
+- **Runner-Up at the Inter-College Developer's Circle Hackathon, Hyderabad**.  
+
+---
+
+## 🌍 Organizations & Community Involvement  
+
+- **President, South Indian Student Association (SISA), VCU** *(Aug 2024 - Present)*  
+  - Organizing cultural events and fostering inclusivity at VCU.  
+
+- **President, Data Science Engineering Society, Hyderabad** *(Jan 2023 - Jun 2024)*  
+  - Conducted online and offline technical training for **1,500+ students**.  
+
+- **Volunteer, Rubaroo COVID-19 Warroom, Hyderabad** *(Mar 2020 - Jun 2020)*  
+  - Led efforts in **fake news mitigation and interfaith coordination**.  
+
+---
+
+### 📫 Connect with me  
+
+- **Email:** [gantap@vcu.edu](mailto:gantap@vcu.edu)  
+- **LinkedIn:** [www.linkedin.com/in/pranavganta](https://www.linkedin.com/in/pranavganta)  
+- **GitHub:** [pgantaa.github.io](https://pgantaa.github.io)  
+
+---
+
+🚀 *Thanks for visiting my page! Looking forward to connecting and collaborating!*  
