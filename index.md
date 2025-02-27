@@ -4,7 +4,7 @@ layout: default
 
 # Welcome to My Research Portfolio  
 
-I am **Pranav Sai Ganta**, a **Master's student in Computer Science at Virginia Commonwealth University (VCU)**, specializing in **Machine Learning, Generative AI, NLP, and MLOps**. My research focuses on **AI-driven optimization, anomaly detection, and intelligent automation**.  
+I am **Pranav Sai Ganta**, a **Master's student in Computer Science at Virginia Commonwealth University (VCU)**, specializing in **Machine Learning, Generative AI, NLP, and MLOps**. My research focuses on **AI-driven optimization, NLP, LLM's and Mixture of Experts**.  
 
 ---
 
