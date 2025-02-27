@@ -109,6 +109,6 @@ I am **Pranav Sai Ganta**, a **Master's student in Computer Science at Virginia 
 
 <!-- hitwebcounter Code START -->
 <a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=19352284&style=0007&nbdigits=4&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" /></a>                    
+<img src="https://hitwebcounter.com/counter/counter.php?page=19352284&style=0500&nbdigits=4&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" /></a>                    
 
 🚀 *Thanks for visiting my page! Looking forward to connecting and collaborating!*  
