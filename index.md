@@ -23,7 +23,14 @@ I am **Pranav Sai Ganta**, a **Master's student in Computer Science at Virginia 
 
 ### **Graduate Research Assistant** - *College of Engineering, VCU* *(Feb 2025 - Present)*  
 - Leading the **Intelligent Plate Waste Tracking System (PWTS)** – an **AI-driven IoT system** for real-time food waste monitoring in institutional dining facilities.  
-- Implementing **machine learning algorithms for predictive analytics, cloud-based data pipelines, and actionable insights** to drive operational efficiency and sustainability initiatives.  
+- Implementing **machine learning algorithms for predictive analytics, cloud-based data pipelines, and actionable insights** to drive operational efficiency and sustainability initiatives.
+
+### **Research Assistant** - *L. Douglas Wilder School of Government and Public Affairs, VCU* *(Feb 2025 - Present)*  
+- Conducting **data analysis and merging of over 1 million highly secured data entries** in collaboration with **Indianapolis City**.  
+- Utilizing **Stata and R** for **data cleaning, transformation, statistical modeling, and visualization**, supporting policy research and program evaluation.  
+- Working within a **high-security virtual environment**, ensuring compliance with **data protection protocols** and handling **restricted datasets** with confidentiality.  
+- Assisting in the development of **quantitative research models** to generate insights for **evidence-based policy decisions**.  
+- Collaborating with faculty, researchers, and city officials to **streamline data workflows** and enhance analytical efficiency.  
 
 ### **Research Assistant** - *VCU* *(Oct 2024 - Jan 2025)*  
 - Worked on **CAN Bus Abnormality Detection Project**, collaborating with the University of Virginia under Dr. Zhao.  
