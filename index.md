@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# A bit about me..
+# 
 
 I am **Pranav Sai Ganta**, a **Master's student in Computer Science at Virginia Commonwealth University (VCU)**, specializing in **Machine Learning, Generative AI, NLP, and MLOps**. My research focuses on **AI-driven optimization, NLP, LLM's and Mixture of Experts**.  
 
@@ -26,12 +26,10 @@ I am **Pranav Sai Ganta**, a **Master's student in Computer Science at Virginia 
 - Implementing **machine learning algorithms for predictive analytics, cloud-based data pipelines, and actionable insights** to drive operational efficiency and sustainability initiatives.
 
 ### **Research Assistant** - *L. Douglas Wilder School of Government and Public Affairs, VCU* *(Feb 2025 - Present)*  
-- Conducting **data analysis and merging of over 1 million highly secured data entries** in collaboration with **Indianapolis City**.  
+- Conducting **data analysis and merging of over 1 million highly secured data entries** in collaboration with **City of Indianapolis**.  
 - Utilizing **Stata and R** for **data cleaning, transformation, statistical modeling, and visualization**, supporting policy research and program evaluation.  
-- Working within a **high-security virtual environment**, ensuring compliance with **data protection protocols** and handling **restricted datasets** with confidentiality.  
-- Assisting in the development of **quantitative research models** to generate insights for **evidence-based policy decisions**.  
-- Collaborating with faculty, researchers, and city officials to **streamline data workflows** and enhance analytical efficiency.  
-
+- Working within a **high-security virtual environment**, ensuring compliance with **data protection protocols** and handling **restricted datasets** with confidentiality.
+- 
 ### **Research Assistant** - *VCU* *(Oct 2024 - Jan 2025)*  
 - Worked on **CAN Bus Abnormality Detection Project**, collaborating with the University of Virginia under Dr. Zhao.  
 - Led a team of 2 in developing a **GAN-based anomaly detection system** for CAN Bus communication security.  
