@@ -21,7 +21,7 @@ I am **Pranav Sai Ganta**, a **Master's student in Computer Science at Virginia 
 
 ## 🔬 Research Experience  
 
-### **Graduate Research Assistant** - *College of Engineering, VCU* *(Feb 2025 - Present)*  
+### **Graduate Research Assistant** - *College of Engineering, VCU* *(Feb 2025 - Present)*  <a href="[link](https://music.lab.vcu.edu/projects/foodtrack/)">Link</a>
 - Leading the **Intelligent Plate Waste Tracking System (PWTS)** – an **AI-driven IoT system** for real-time food waste monitoring in institutional dining facilities.  
 - Implementing **machine learning algorithms for predictive analytics, cloud-based data pipelines, and actionable insights** to drive operational efficiency and sustainability initiatives.
 
